@@ -1,0 +1,67 @@
+my-tweets
+this is the last one probably | Sun Jul 15 16:49:02 +0000 2018
+this is quite a curious development, one that calls for some deep thought | Sun Jul 15 16:48:51 +0000 2018
+SAMPLE TEXT | Sun Jul 15 16:48:24 +0000 2018
+🅱️IG 🅱️HINK | Sun Jul 15 16:48:16 +0000 2018
+biggus thinkus | Sun Jul 15 16:47:39 +0000 2018
+big thonk | Sun Jul 15 16:47:29 +0000 2018
+heres some thinks to thonk about | Sun Jul 15 16:47:21 +0000 2018
+guess I should make a few more to test that it updates | Sun Jul 15 16:47:07 +0000 2018
+homework | Sun Jul 15 15:41:31 +0000 2018
+real | Sun Jul 15 15:41:30 +0000 2018
+the | Sun Jul 15 15:41:30 +0000 2018
+to | Sun Jul 15 15:41:30 +0000 2018
+get | Sun Jul 15 15:41:30 +0000 2018
+finally | Sun Jul 15 15:41:29 +0000 2018
+can | Sun Jul 15 15:41:29 +0000 2018
+I | Sun Jul 15 15:41:29 +0000 2018
+then | Sun Jul 15 15:41:29 +0000 2018
+and | Sun Jul 15 15:41:28 +0000 2018
+more | Sun Jul 15 15:41:28 +0000 2018
+few | Sun Jul 15 15:41:28 +0000 2018
+spotify-this-song
+no song name given: using default
+Streetlight Manifesto
+Title: With Any Sort of Certainty
+Album: The Hands That Thieve
+Preview Link: https://p.scdn.co/mp3-preview/aafc30be3c0a25cc7533c26862ca6f95347e606f?cid=cb24e6c2406e4873a2ac034c8e987fc4
+spotify-this-song
+no song name given: using default
+Streetlight Manifesto
+Title: With Any Sort of Certainty
+Album: The Hands That Thieve
+Preview Link: https://p.scdn.co/mp3-preview/aafc30be3c0a25cc7533c26862ca6f95347e606f?cid=cb24e6c2406e4873a2ac034c8e987fc4
+spotify-this-song
+disparity by design
+Rise Against
+Title: Disparity By Design
+Album: Endgame
+Preview unavailable.
+movie-this
+no movie name give, using default
+Movie Title: Yellow Submarine
+Release Year: 1968
+IMDB Rating: 7.4/10
+Rotten Tomatoes Rating: 96%
+Country of Origin: UK, USA
+Original Language: English
+Plot Synopsis: The Beatles agree to accompany Captain Fred in his Yellow Submarine and go to Pepperland to free it from the music hating Blue Meanies.
+Actors: The Beatles, Paul Angelis, John Clive, Dick Emery
+movie-this
+princess mononoke
+Movie Title: Princess Mononoke
+Release Year: 1997
+IMDB Rating: 8.4/10
+Rotten Tomatoes Rating: 92%
+Country of Origin: Japan
+Original Language: Japanese
+Plot Synopsis: On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+Actors: Billy Crudup, Billy Bob Thornton, Minnie Driver, John DiMaggio
+do-what-it-says
+spotify-this-song,Day of the Baphomets
+spotify-this-song
+Day of the Baphomets
+The Mars Volta
+Title: Day Of The Baphomets
+Album: Amputechture
+Preview unavailable.
