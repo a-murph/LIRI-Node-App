@@ -55,7 +55,7 @@ When called, LIRI will search OMDB for movies matching the query. It will then r
 
 If `movie-title` is not provided, LIRI will by default search for the Beatles movie "Yellow Submarine".
 
-## do-what-it-says
+## `do-what-it-says`
 
 The `do-what-it-says` command takes no arguments.
 
